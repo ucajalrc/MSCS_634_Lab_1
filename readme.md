@@ -180,4 +180,4 @@ The statistical summaries quantitatively confirmed patterns observed in Step 2â€
 
 ---
 
-## Some console outputs and table results shown in the screenshots were truncated or partially hidden due to limited screen space. When the notebook is executed directly in Jupyter, full outputs are visible in scrollable cells. The screenshots provided capture the key portions necessary to verify successful run for each step.
+## **NOTE: Some console outputs and table results shown in the screenshots were truncated or partially hidden due to limited screen space. When the notebook is executed directly in Jupyter, full outputs are visible in scrollable cells. The screenshots provided capture the key portions necessary to verify successful run for each step.**
