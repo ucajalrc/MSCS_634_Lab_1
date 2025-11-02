@@ -1,9 +1,10 @@
 # **MSCS_634_Lab_1 — Data Visualization, Preprocessing, and Statistical Analysis**
 
-**Name:** *Ajal RC*
-**Course:** *MSCS 634 – Big Data and Data Mining*
-**Instructor:** *Satish Penmatsa*
+**Name:** *Ajal RC*<br>
+**Course:** *MSCS 634 – Big Data and Data Mining*<br>
+**Instructor:** *Satish Penmatsa*<br>
 **Date:** *11/02/2025*
+
 
 ---
 
