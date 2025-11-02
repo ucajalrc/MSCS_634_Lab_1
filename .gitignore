@@ -1,1 +1,16 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
 venv/
+.env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# macOS
+.DS_Store
